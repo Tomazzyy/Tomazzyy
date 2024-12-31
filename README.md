@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Tomaz Vitória!
+# 👋 Olá, eu sou o Vinicius Tomaz!
 
 Sou um estudante de **Técnico em Desenvolvimento de Sistemas** pela **Unicesumar** e atualmente estou estagiando na **Caixa Econômica Federal**. Desde muito jovem, sou apaixonado por **tecnologia** e **programação**. Estou sempre em busca de aprender algo novo e melhorar minhas habilidades como desenvolvedor, especialmente na área de **desenvolvimento front-end**. 💻🚀
 
