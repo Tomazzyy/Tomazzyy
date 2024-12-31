@@ -1,10 +1,23 @@
-- 👋 eai, me chamo Vinicius Tomaz!
-- 👀 Estou interessado em aprender novas tecnologias 
-- 🌱 Atualmente estou me dedicando ao front-end.
-- 📫 Você pode me mandar uma mensagem para o número: 55 53 99154 4775 ou pelo email: viniciustomaz654@gmail.com 
-- 😄 Pronomes: Ele/Dele
+# 👋 Olá, eu sou o Tomaz Vitória!
 
-<!---
-Tomazzyy/Tomazzyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou um estudante de **Técnico em Desenvolvimento de Sistemas** pela **Unicesumar** e atualmente estou estagiando na **Caixa Econômica Federal**. Desde muito jovem, sou apaixonado por **tecnologia** e **programação**. Estou sempre em busca de aprender algo novo e melhorar minhas habilidades como desenvolvedor, especialmente na área de **desenvolvimento front-end**. 💻🚀
+
+## 🎯 Meus Objetivos
+- Me tornar um **desenvolvedor Full-Stack**.
+- Trabalhar com tecnologias como **React**, **Node.js**, e **Python**.
+- Criar minha própria **empresa de tecnologia** no futuro. 💼💡
+
+## 💼 Minhas Habilidades
+- **Front-End:** HTML, CSS, JavaScript.
+- **Ferramentas:** Git, GitHub, VSCode.
+- **Outras:** Noções de back-end e UI/UX Design.
+
+## ⚡ Fatos Interessantes sobre Mim
+- Adoro passar tempo na **academia** 💪.
+- Sempre busco novos desafios em **tecnologia** e **programação**.
+- Apaixonado por **jogos** e **desenvolvimento de projetos pessoais** 🎮.
+- Sonho em **viver em Portugal** e explorar novas oportunidades pelo mundo 🌍✈️.
+
+
+
+🔧 Vamos construir algo incrível juntos! Se tiver algum projeto interessante ou oportunidade, sinta-se à vontade para entrar em contato! 😄
