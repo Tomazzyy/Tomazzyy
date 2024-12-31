@@ -20,4 +20,3 @@ Sou um estudante de **Técnico em Desenvolvimento de Sistemas** pela **Unicesuma
 
 
 
-🔧 Vamos construir algo incrível juntos! Se tiver algum projeto interessante ou oportunidade, sinta-se à vontade para entrar em contato! 😄
