@@ -1,22 +1,34 @@
-# 👋 Olá, eu sou o Vinicius Tomaz!
+# 👋 Olá, eu sou o Vinícius Tomaz
 
-Sou um estudante de **Técnico em Desenvolvimento de Sistemas** pela **Unicesumar** e atualmente estou estagiando na **Caixa Econômica Federal**. Desde muito jovem, sou apaixonado por **tecnologia** e **programação**. Estou sempre em busca de aprender algo novo e melhorar minhas habilidades como desenvolvedor, especialmente na área de **desenvolvimento front-end**. 💻🚀
+Sou **Desenvolvedor de Sistemas na Italiano Fácil**, apaixonado por tecnologia, programação e pela arte de transformar ideias em sistemas funcionais. Desde cedo, gosto de entender como as coisas funcionam “por trás das cortinas” e aplicar lógica, criatividade e boas práticas no desenvolvimento de software. 💻🚀  
 
-## 🎯 Meus Objetivos
-- Me tornar um **desenvolvedor Full-Stack**.
-- Trabalhar com tecnologias como **React**, **Node.js**, e **Python**.
-- Criar minha própria **empresa de tecnologia** no futuro. 💼💡
+Tenho interesse especial em evolução constante como desenvolvedor, explorando tanto o front-end quanto o back-end, sempre com atenção à performance, usabilidade e organização do código.
 
-## 💼 Minhas Habilidades
-- **Front-End:** HTML, CSS, JavaScript.
-- **Ferramentas:** Git, GitHub, VSCode.
-- **Outras:** Noções de back-end e UI/UX Design.
+---
 
-## ⚡ Fatos Interessantes sobre Mim
-- Adoro passar tempo na **academia** 💪.
-- Sempre busco novos desafios em **tecnologia** e **programação**.
-- Apaixonado por **jogos** e **desenvolvimento de projetos pessoais** 🎮.
-- Sonho em **viver em Portugal** e explorar novas oportunidades pelo mundo 🌍✈️.
+## 🎯 Objetivos
+- Me tornar um desenvolvedor **Full Stack**
+- Trabalhar com **React, Node.js e Python**
+- Criar minha própria empresa de tecnologia no futuro 💼💡
 
+---
 
+## 💼 Habilidades
+- **Front-end:** HTML, CSS, JavaScript  
+- **Ferramentas:** Git, GitHub, VS Code  
+- **Outros:** Noções de back-end, UI/UX Design e lógica aplicada  
 
+---
+
+## 🎓 Formações
+- Técnico em Desenvolvimento de Sistemas  
+- Ciência da Computação  
+- Licenciatura em Matemática  
+
+---
+
+## ⚡ Sobre mim
+- Disciplina e constância na academia 💪  
+- Sempre em busca de novos desafios em tecnologia  
+- Apaixonado por jogos e projetos pessoais 🎮  
+- Sonho em viver em **Portugal** e explorar oportunidades pelo mundo 🌍✈️
