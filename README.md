@@ -8,27 +8,26 @@ Tenho interesse especial em evolução constante como desenvolvedor, explorando 
 
 ## 🎯 Objetivos
 - Me tornar um desenvolvedor **Full Stack**
-- Trabalhar com **React, Node.js e Python**
 - Criar minha própria empresa de tecnologia no futuro 💼💡
 
 ---
 
 ## 💼 Habilidades
-- **Front-end:** HTML, CSS, JavaScript  
+- **Front-end/Back-end:** HTML, CSS, JavaScript, Python, C, C++
 - **Ferramentas:** Git, GitHub, VS Code  
 - **Outros:** Noções de back-end, UI/UX Design e lógica aplicada  
 
 ---
 
 ## 🎓 Formações
-- Técnico em Desenvolvimento de Sistemas  
-- Ciência da Computação  
-- Licenciatura em Matemática  
+- Técnico em Desenvolvimento de Sistemas - Concluido - Unicesumar 
+- Ciência da Computação - em andamento - Estácio
+- Licenciatura em Matemática - em andamento - FURG
 
 ---
 
 ## ⚡ Sobre mim
-- Disciplina e constância na academia 💪  
+- Disciplina e constância nos estudos!
 - Sempre em busca de novos desafios em tecnologia  
 - Apaixonado por jogos e projetos pessoais 🎮  
-- Sonho em viver em **Portugal** e explorar oportunidades pelo mundo 🌍✈️
+- Sonho em viver no **Canada** e explorar oportunidades pelo mundo 🌍✈️
