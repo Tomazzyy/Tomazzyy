@@ -1,71 +1,91 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=VINICIUS%20TOMAZ&fontSize=42&fontAlignY=40&color=0:050816,25:07111f,50:00bfff,75:7f5cff,100:ff00ff&fontColor=00ffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=VINICIUS%20TOMAZ&fontSize=45&fontAlignY=40&color=0:050816,25:0f172a,50:00ffff,75:7f5cff,100:ff00ff&fontColor=00ffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%3E+SYSTEM+ONLINE...;%3E+FULL+STACK+DEVELOPER+IN+PROGRESS;%3E+BUILDING+THE+FUTURE+WITH+CODE+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%3E+SISTEMA+INICIADO...;%3E+DESENVOLVEDOR+FULL+STACK+EM+EVOLUÇÃO;%3E+TRANSFORMANDO+IDEIAS+EM+CÓDIGO+🚀"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffff?style=for-the-badge&labelColor=0a0f1c"/>
-<img src="https://img.shields.io/badge/FOCUS-FULLSTACK-7f5cff?style=for-the-badge&labelColor=0a0f1c"/>
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-ff00ff?style=for-the-badge&labelColor=0a0f1c"/>
+<img src="https://img.shields.io/badge/FOCO-FULLSTACK-7f5cff?style=for-the-badge&labelColor=0a0f1c"/>
+<img src="https://img.shields.io/badge/LOCALIZAÇÃO-BRASIL-ff00ff?style=for-the-badge&labelColor=0a0f1c"/>
 
 </div>
 
 ---
 
-# 🧠 INITIALIZE_SYSTEM.exe
+# 👾 SOBRE MIM
+
+<div align="center">
+
+<img height="180" src="https://media.tenor.com/DimzPZMypFcAAAAd/luffy.gif"/>
+<img height="180" src="https://media.tenor.com/0h7hYqncR0AAAAAd/naruto.gif"/>
+
+</div>
 
 ```bash
-> booting developer profile...
+> iniciando perfil...
 
-[OK] Vinícius Tomaz detected
-[OK] Systems Developer
-[OK] 5 months of real-world experience
-[OK] Front-end & Back-end explorer
-[OK] Passionate about technology and innovation
+[✔] Vinícius Tomaz detectado
+[✔] Desenvolvedor de Sistemas
+[✔] 5 meses de experiência prática
+[✔] Explorando Front-end & Back-end
+[✔] Apaixonado por tecnologia
 
-> loading ambitions...
+> carregando objetivos...
 
-[██████████] 100%
+[████████████████████] 100%
 
-[🌎] Canada
-[💼] Build a tech company
-[🚀] Become Full Stack
-[🧠] Constant evolution
+[🌎] Canadá
+[💼] Empresa própria
+[🚀] Full Stack Developer
+[🧠] Evolução constante
 ```
 
 ---
 
-# ⚡ ABOUT_ME.sys
+# ⚡ PERFIL_DO_USUARIO.sys
 
 ```yaml
-name: Vinícius Tomaz
+nome: Vinícius Tomaz
 
-role: Systems Developer
+cargo: Desenvolvedor de Sistemas
 
-focus:
+foco:
   - Front-end
   - Back-end
   - Performance
   - Clean Code
-  - User Experience
+  - UI/UX
 
-mindset:
-  - Discipline
-  - Consistency
-  - Creativity
-  - Evolution
+mentalidade:
+  - Disciplina
+  - Constância
+  - Criatividade
+  - Evolução
 
 hobbies:
-  - Gaming 🎮
-  - Personal Projects 💻
-  - Technology 🚀
+  - Jogos 🎮
+  - Projetos pessoais 💻
+  - Tecnologia 🚀
 ```
 
 ---
 
-# 🛠 TECH_STACK.dll
+# 🥷 NÍVEL DE PODER
+
+<div align="center">
+
+<img height="200" src="https://media.tenor.com/zN9d6m7KTTAAAAAd/naruto-sasuke.gif"/>
+<img height="200" src="https://media.tenor.com/lk7s7F7z4WAAAAAd/itachi-uchiha.gif"/>
+<img height="200" src="https://media.tenor.com/6ovNu8llQWcAAAAd/madara.gif"/>
+
+</div>
+
+---
+
+# 🛠️ TECH_STACK.dll
 
 <div align="center">
 
@@ -75,7 +95,7 @@ hobbies:
 
 ---
 
-# 🎓 EDUCATION.log
+# 🎓 FORMAÇÃO.log
 
 ```txt
 [✔] Técnico em Desenvolvimento de Sistemas — Unicesumar
@@ -85,7 +105,7 @@ hobbies:
 
 ---
 
-# 📡 GITHUB_ANALYTICS.exe
+# 📊 GITHUB_ANALYTICS.exe
 
 <div align="center">
 
@@ -97,7 +117,7 @@ hobbies:
 
 ---
 
-# ⚠ SYSTEM_ACTIVITY.graph
+# ⚔️ ATIVIDADE_DO_SISTEMA.graph
 
 <div align="center">
 
@@ -107,7 +127,19 @@ hobbies:
 
 ---
 
-# 🌐 CONNECT_WITH_ME.link
+# 🌌 MODO_CYBER_ATIVADO
+
+<div align="center">
+
+<img height="180" src="https://media.tenor.com/2uyENRmiUt0AAAAd/kakashi.gif"/>
+<img height="180" src="https://media.tenor.com/wz4jC9sYQWgAAAAd/obito.gif"/>
+<img height="180" src="https://media.tenor.com/Rh8h6Wl0L5QAAAAd/minato.gif"/>
+
+</div>
+
+---
+
+# 🌐 CONTATO.link
 
 <div align="center">
 
@@ -130,10 +162,11 @@ hobbies:
 <div align="center">
 
 ```txt
-> SYSTEM STATUS: ONLINE
-> READY TO BUILD THE FUTURE.
+> STATUS DO SISTEMA: ONLINE
+> PRONTO PARA CRIAR O FUTURO.
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050816,25:07111f,50:00bfff,75:7f5cff,100:ff00ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050816,25:0f172a,50:00ffff,75:7f5cff,100:ff00ff"/>
 
 </div>
+````
