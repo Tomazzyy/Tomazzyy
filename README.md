@@ -99,8 +99,8 @@ hobbies:
 
 ```txt
 [✔] Técnico em Desenvolvimento de Sistemas — Unicesumar
-[✔] Ciência da Computação — Estácio
-[✔] Licenciatura em Matemática — FURG
+[✔] Ciência da Computação — Estácio - Cursando
+[✔] Licenciatura em Matemática — FURG - Cursando
 ```
 
 ---
