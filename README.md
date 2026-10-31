@@ -1,171 +1,97 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=VINICIUS%20TOMAZ&fontSize=45&fontAlignY=40&color=0:050816,25:0f172a,50:00ffff,75:7f5cff,100:ff00ff&fontColor=00ffff&animation=fadeIn"/>
+<img width="100%" src="assets/hero.svg" alt="Vinícius Tomaz, Full Stack Developer em evolução"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%3E+SISTEMA+INICIADO...;%3E+DESENVOLVEDOR+FULL+STACK+EM+EVOLUÇÃO;%3E+TRANSFORMANDO+IDEIAS+EM+CÓDIGO+🚀"/>
+<br/>
 
-<br>
+<a href="https://github.com/Tomazzyy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=45&lines=%3E+SISTEMA+INICIADO...;%3E+TRANSFORMANDO+IDEIAS+EM+C%C3%93DIGO;%3E+PR%C3%93XIMO+DESTINO%3A+CANAD%C3%81" alt="Sistema iniciado. Transformando ideias em código. Próximo destino: Canadá."/></a>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ffff?style=for-the-badge&labelColor=0a0f1c"/>
-<img src="https://img.shields.io/badge/FOCO-FULLSTACK-7f5cff?style=for-the-badge&labelColor=0a0f1c"/>
-<img src="https://img.shields.io/badge/LOCALIZAÇÃO-BRASIL-ff00ff?style=for-the-badge&labelColor=0a0f1c"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ffff?style=for-the-badge&labelColor=0a0f1c" alt="Status: online"/>
+<img src="https://img.shields.io/badge/FOCO-FULLSTACK-7f5cff?style=for-the-badge&labelColor=0a0f1c" alt="Foco: Full Stack"/>
+<img src="https://img.shields.io/badge/LOCALIZAÇÃO-BRASIL-ff00ff?style=for-the-badge&labelColor=0a0f1c" alt="Localização: Brasil"/>
 
 </div>
 
----
+<br/>
 
-# 👾 SOBRE MIM
+<img width="100%" src="assets/terminal.svg" alt="Terminal: Vinícius Tomaz, Desenvolvedor de Sistemas com 10 meses de experiência prática. Objetivos: Canadá, empresa própria, Full Stack Developer e evolução constante."/>
 
-<div align="center">
+## ⚡ `PERFIL_DO_USUARIO.sys`
 
-<img height="180" src="https://media.tenor.com/DimzPZMypFcAAAAd/luffy.gif"/>
-<img height="180" src="https://media.tenor.com/0h7hYqncR0AAAAAd/naruto.gif"/>
-
-</div>
-
-```bash
-> iniciando perfil...
-
-[✔] Vinícius Tomaz detectado
-[✔] Desenvolvedor de Sistemas
-[✔] 10 meses de experiência prática
-[✔] Explorando Front-end & Back-end
-[✔] Apaixonado por tecnologia
-
-> carregando objetivos...
-
-[████████████████████] 100%
-
-[🌎] Canadá
-[💼] Empresa própria
-[🚀] Full Stack Developer
-[🧠] Evolução constante
-```
-
----
-
-# ⚡ PERFIL_DO_USUARIO.sys
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ```yaml
-nome: Vinícius Tomaz
-
-cargo: Desenvolvedor de Sistemas
-
 foco:
   - Front-end
   - Back-end
   - Performance
   - Clean Code
   - UI/UX
+```
 
+</td>
+<td width="50%" valign="top">
+
+```yaml
 mentalidade:
   - Disciplina
   - Constância
   - Criatividade
   - Evolução
-
-hobbies:
-  - Jogos 🎮
-  - Projetos pessoais 💻
-  - Tecnologia 🚀
+hobbies: [Jogos, Projetos pessoais, Tecnologia]
 ```
 
----
+</td>
+</tr>
+</table>
 
-# 🥷 NÍVEL DE PODER
+## 🥷 `NIVEL_DE_PODER.exe`
 
-<div align="center">
+<img width="100%" src="assets/power.svg" alt="Evolução: Genin, técnico concluído. Chunin, nível atual, com 10 meses de prática e duas graduações em curso. Jonin, Full Stack Developer. Kage, empresa própria no Canadá."/>
 
-<img height="200" src="https://media.tenor.com/zN9d6m7KTTAAAAAd/naruto-sasuke.gif"/>
-<img height="200" src="https://media.tenor.com/lk7s7F7z4WAAAAAd/itachi-uchiha.gif"/>
-<img height="200" src="https://media.tenor.com/6ovNu8llQWcAAAAd/madara.gif"/>
-
-</div>
-
----
-
-# 🛠️ TECH_STACK.dll
+## 🛠️ `TECH_STACK.dll`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,c,cpp,kotlin,git,github,vscode&theme=dark&perline=12" alt="HTML, CSS, JavaScript, TypeScript, PHP, Python, C, C++, Kotlin, Git, GitHub, VS Code"/>
 
 </div>
 
----
+## 🚀 `PROJETOS_ATIVOS.db`
 
-# 🎓 FORMAÇÃO.log
+<div align="center">
 
-```txt
-[✔] Técnico em Desenvolvimento de Sistemas — Unicesumar
-[✔] Ciência da Computação — Estácio - Cursando
-[✔] Licenciatura em Matemática — FURG - Cursando
+<a href="https://github.com/Tomazzyy/OPUS-PDV"><img src="https://img.shields.io/badge/OPUS--PDV-0D1117?style=for-the-badge&logo=php&logoColor=00ffff" alt="OPUS-PDV"/></a>
+<a href="https://github.com/Tomazzyy/FURG-TERROR-EXE"><img src="https://img.shields.io/badge/FURG--TERROR--EXE-0D1117?style=for-the-badge&logo=github&logoColor=ff00ff" alt="FURG-TERROR-EXE"/></a>
+<a href="https://github.com/Tomazzyy/Tech-Financas"><img src="https://img.shields.io/badge/TECH--FINANCAS-0D1117?style=for-the-badge&logo=github&logoColor=7f5cff" alt="Tech-Financas"/></a>
+<a href="https://github.com/Tomazzyy/StudyOrganizer"><img src="https://img.shields.io/badge/STUDYORGANIZER-0D1117?style=for-the-badge&logo=github&logoColor=00ffff" alt="StudyOrganizer"/></a>
+
+</div>
+
+## 📊 `GITHUB_ANALYTICS.exe`
+
+<img width="100%" src="assets/stats.svg" alt="Telemetria do GitHub: repositórios, contribuições, seguidores, linguagens e atividade dos últimos 12 meses."/>
+
+## 🎓 `FORMACAO.log`
+
+```diff
++ [CONCLUÍDO] Técnico em Desenvolvimento de Sistemas · Unicesumar
+! [CURSANDO]  Ciência da Computação · Estácio
+! [CURSANDO]  Licenciatura em Matemática · FURG
 ```
 
----
-
-# 📊 GITHUB_ANALYTICS.exe
+## 🌐 `CONTATO.link`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomazzyy&show_icons=true&theme=radical&hide_border=true"/>
+<a href="mailto:viniciustomaz654@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00ffff" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-tomaz-oliveira-vit%C3%B3ria-03972126a/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ffff" alt="LinkedIn"/></a>
+<a href="https://github.com/Tomazzyy"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00ffff" alt="GitHub"/></a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomazzyy&layout=compact&theme=radical&hide_border=true"/>
-</div>
+<br/><br/>
 
----
-
-# ⚔️ ATIVIDADE_DO_SISTEMA.graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomazzyy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffff&line=7f5cff&point=ff00ff"/>
+<img width="100%" src="assets/footer.svg" alt="Status do sistema: online. Pronto para criar o futuro."/>
 
 </div>
-
----
-
-# 🌌 MODO_CYBER_ATIVADO
-
-<div align="center">
-
-<img height="180" src="https://media.tenor.com/2uyENRmiUt0AAAAd/kakashi.gif"/>
-<img height="180" src="https://media.tenor.com/wz4jC9sYQWgAAAAd/obito.gif"/>
-<img height="180" src="https://media.tenor.com/Rh8h6Wl0L5QAAAAd/minato.gif"/>
-
-</div>
-
----
-
-# 🌐 CONTATO.link
-
-<div align="center">
-
-<a href="mailto:viniciustomaz654@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00ffff"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vin%C3%ADcius-tomaz-oliveira-vit%C3%B3ria-03972126a/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ffff"/>
-</a>
-
-<a href="https://github.com/Tomazzyy">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```txt
-> STATUS DO SISTEMA: ONLINE
-> PRONTO PARA CRIAR O FUTURO.
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050816,25:0f172a,50:00ffff,75:7f5cff,100:ff00ff"/>
-
-</div>
-````

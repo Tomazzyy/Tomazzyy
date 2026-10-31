@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Vinícius Tomaz, Full Stack Developer em evolução">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset=".62" stop-color="#0d1030"/>
+      <stop offset="1" stop-color="#1a0b33"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f7ff"/>
+      <stop offset=".5" stop-color="#7f5cff"/>
+      <stop offset="1" stop-color="#ff00ff"/>
+    </linearGradient>
+    <radialGradient id="sun" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#ff00ff" stop-opacity=".5"/>
+      <stop offset=".55" stop-color="#7f5cff" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#7f5cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <mask id="floor"><rect y="228" width="1000" height="112" fill="url(#fade)"/></mask>
+    <clipPath id="frame"><rect width="1000" height="340" rx="16"/></clipPath>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono', 'Fira Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace; }
+    .name { font-size: 70px; font-weight: 800; letter-spacing: 3px; text-anchor: middle; }
+    .ghost { opacity: 0; mix-blend-mode: screen; }
+    .g1 { animation: g1 6s steps(1) infinite; }
+    .g2 { animation: g2 6s steps(1) infinite; }
+    @keyframes g1 { 0%,91%,100% { opacity: 0; transform: none; } 92% { opacity: .9; transform: translate(-7px,2px); } 95% { opacity: .9; transform: translate(5px,-2px); } 97% { opacity: .7; transform: translate(-3px,0); } }
+    @keyframes g2 { 0%,91%,100% { opacity: 0; transform: none; } 92% { opacity: .9; transform: translate(7px,-2px); } 95% { opacity: .9; transform: translate(-5px,2px); } 97% { opacity: .7; transform: translate(3px,0); } }
+    .sub { font-size: 19px; letter-spacing: 6px; fill: #b9f8ff; text-anchor: middle; }
+    .hud { font-size: 12px; letter-spacing: 2px; fill: #00f7ff; opacity: .8; }
+    .scan { animation: scan 5s linear infinite; }
+    @keyframes scan { from { transform: translateY(-20px); } to { transform: translateY(350px); } }
+    .run { animation: run 2.4s linear infinite; }
+    @keyframes run { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -112; } }
+    .blink { animation: blink 1.4s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: .15; } }
+    .pulse { animation: pulse 3.5s ease-in-out infinite; transform-origin: 500px 228px; }
+    @keyframes pulse { 50% { transform: scale(1.12); opacity: .75; } }
+    .twinkle { animation: blink 3s steps(1) infinite; }
+    .t2 { animation-delay: -1.1s; } .t3 { animation-delay: -2.2s; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="340" fill="url(#bg)"/>
+    <g fill="#fff">
+      <circle class="twinkle" cx="72" cy="58" r="1.4"/><circle cx="168" cy="118" r="1"/><circle class="twinkle t2" cx="262" cy="38" r="1.2"/>
+      <circle cx="356" cy="92" r=".9"/><circle class="twinkle t3" cx="628" cy="34" r="1.3"/><circle cx="712" cy="104" r="1"/>
+      <circle class="twinkle" cx="826" cy="52" r="1.2"/><circle cx="922" cy="128" r="1"/><circle class="twinkle t2" cx="118" cy="176" r="1"/>
+      <circle class="twinkle t3" cx="884" cy="186" r="1.2"/><circle cx="470" cy="26" r=".9"/><circle cx="46" cy="134" r=".8"/>
+    </g>
+    <ellipse class="pulse" cx="500" cy="228" rx="330" ry="150" fill="url(#sun)"/>
+
+    <g mask="url(#floor)" stroke="#00f7ff" stroke-width="1" fill="none" opacity=".75">
+      <path d="M500 228L-700 340M500 228L-400 340M500 228L-150 340M500 228L60 340M500 228L220 340M500 228L360 340M500 228L500 340M500 228L640 340M500 228L780 340M500 228L940 340M500 228L1150 340M500 228L1400 340M500 228L1700 340"/>
+      <path d="M0 236H1000M0 248H1000M0 266H1000M0 292H1000M0 328H1000"/>
+    </g>
+    <path d="M0 228H1000" stroke="url(#title)" stroke-width="2" filter="url(#glow)"/>
+
+    <text class="name" x="500" y="150" fill="url(#title)" filter="url(#glow)">VINÍCIUS TOMAZ</text>
+    <text class="name ghost g1" x="500" y="150" fill="#00f7ff">VINÍCIUS TOMAZ</text>
+    <text class="name ghost g2" x="500" y="150" fill="#ff00ff">VINÍCIUS TOMAZ</text>
+    <text class="sub" x="500" y="194">FULL STACK DEVELOPER // EM EVOLUÇÃO</text>
+
+    <g stroke="#00f7ff" stroke-width="2" fill="none">
+      <path d="M22 50V22H50M950 22H978V50M978 290V318H950M50 318H22V290"/>
+    </g>
+    <text class="hud" x="40" y="46"><tspan class="blink" fill="#00ff9d">●</tspan> SYS.ONLINE</text>
+    <text class="hud" x="960" y="46" text-anchor="end">NODE // BRASIL</text>
+    <text class="hud" x="40" y="306">USER: TOMAZZYY</text>
+    <text class="hud" x="960" y="306" text-anchor="end">NEXT_DEST &gt;&gt; CANADÁ</text>
+
+    <rect class="scan" width="1000" height="3" fill="#00f7ff" opacity=".22"/>
+  </g>
+  <rect x=".75" y=".75" width="998.5" height="338.5" rx="16" fill="none" stroke="url(#title)" stroke-width="1.5"/>
+  <rect class="run" x=".75" y=".75" width="998.5" height="338.5" rx="16" fill="none" stroke="#fff" stroke-width="1.5" stroke-dasharray="26 86" opacity=".55"/>
+</svg>

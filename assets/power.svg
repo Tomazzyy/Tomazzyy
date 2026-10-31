@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Nível de poder. Genin concluído: Técnico em Desenvolvimento de Sistemas. Chunin, nível atual: 10 meses de prática, Ciência da Computação e Matemática em curso. Jonin, próximo: Full Stack Developer. Kage, objetivo final: empresa própria no Canadá.">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f7ff"/><stop offset=".5" stop-color="#7f5cff"/><stop offset="1" stop-color="#ff00ff"/>
+    </linearGradient>
+    <radialGradient id="iris">
+      <stop offset="0" stop-color="#ff3b4e"/><stop offset=".72" stop-color="#d4001f"/><stop offset="1" stop-color="#5c0010"/>
+    </radialGradient>
+    <radialGradient id="aura">
+      <stop offset=".5" stop-color="#ff0033" stop-opacity=".35"/><stop offset="1" stop-color="#ff0033" stop-opacity="0"/>
+    </radialGradient>
+    <g id="tomoe">
+      <circle r="11"/>
+      <path d="M-11 0C-12 -17 4 -27 24 -25C10 -20 6 -11 11 0Z"/>
+    </g>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono', 'Fira Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace; }
+    .spin { animation: spin 3s cubic-bezier(.65,0,.35,1) infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .aura { animation: aura 3s ease-in-out infinite; transform-origin: 170px 170px; }
+    @keyframes aura { 50% { transform: scale(1.14); opacity: .6; } }
+    .rank { font-size: 21px; font-weight: 700; }
+    .desc { font-size: 15px; fill: #aeb9d8; }
+    .tag { font-size: 12px; letter-spacing: 2px; text-anchor: end; }
+    .head { font-size: 13px; letter-spacing: 4px; fill: #00f7ff; }
+    .now { animation: now 1.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes now { 50% { transform: scale(1.9); opacity: 0; } }
+    .flow { stroke-dasharray: 5 7; animation: flow 1s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -12; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect x="1" y="1" width="998" height="338" rx="14" fill="#0a0e1f" stroke="url(#edge)" stroke-width="1.5"/>
+
+  <circle class="aura" cx="170" cy="170" r="140" fill="url(#aura)"/>
+  <circle cx="170" cy="170" r="104" fill="url(#iris)" stroke="#120006" stroke-width="5"/>
+  <circle cx="170" cy="170" r="62" fill="none" stroke="#2a0008" stroke-width="3"/>
+  <g transform="translate(170 170)">
+    <g class="spin" fill="#0a0006">
+      <use href="#tomoe" transform="rotate(0) translate(0 -62) rotate(-68)"/>
+      <use href="#tomoe" transform="rotate(120) translate(0 -62) rotate(-68)"/>
+      <use href="#tomoe" transform="rotate(240) translate(0 -62) rotate(-68)"/>
+    </g>
+    <circle r="23" fill="#0a0006"/>
+  </g>
+
+  <text class="head" x="350" y="48">// NÍVEL_DE_PODER</text>
+  <path d="M362 84V284" stroke="#27304f" stroke-width="2"/>
+  <path class="flow" d="M362 148V216" stroke="#00f7ff" stroke-width="2" fill="none"/>
+
+  <circle cx="362" cy="84" r="8" fill="#00ff9d"/>
+  <text class="rank" x="390" y="84" fill="#00ff9d">GENIN</text>
+  <text class="desc" x="390" y="108">Técnico em Desenvolvimento de Sistemas</text>
+  <text class="tag" x="970" y="84" fill="#00ff9d">CONCLUÍDO</text>
+
+  <circle class="now" cx="362" cy="150" r="9" fill="#00f7ff"/>
+  <circle cx="362" cy="150" r="9" fill="#00f7ff"/>
+  <text class="rank" x="390" y="150" fill="#00f7ff">CHUNIN</text>
+  <text class="desc" x="390" y="174">10 meses de prática + Ciência da Computação e Matemática</text>
+  <text class="tag" x="970" y="150" fill="#00f7ff">VOCÊ ESTÁ AQUI</text>
+
+  <circle cx="362" cy="216" r="8" fill="#0a0e1f" stroke="#7f5cff" stroke-width="2"/>
+  <text class="rank" x="390" y="216" fill="#a48bff">JONIN</text>
+  <text class="desc" x="390" y="240">Full Stack Developer</text>
+  <text class="tag" x="970" y="216" fill="#a48bff">PRÓXIMA MISSÃO</text>
+
+  <circle cx="362" cy="284" r="8" fill="#0a0e1f" stroke="#ff00ff" stroke-width="2"/>
+  <text class="rank" x="390" y="284" fill="#ff7bff">KAGE</text>
+  <text class="desc" x="390" y="308">Empresa própria no Canadá</text>
+  <text class="tag" x="970" y="284" fill="#ff7bff">OBJETIVO FINAL</text>
+</svg>

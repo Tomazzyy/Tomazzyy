@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 438" width="1000" height="438" role="img" aria-label="Terminal: Vinícius Tomaz, Desenvolvedor de Sistemas com 10 meses de experiência prática, explorando front-end e back-end. Objetivos: Canadá, empresa própria, Full Stack Developer e evolução constante.">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f7ff"/><stop offset=".5" stop-color="#7f5cff"/><stop offset="1" stop-color="#ff00ff"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono', 'Fira Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace; font-size: 17px; fill: #d6e2ff; }
+    .p { fill: #00f7ff; } .ok { fill: #00ff9d; } .v { fill: #ff7bff; } .dim { fill: #6d7a9c; }
+    .title { font-size: 13px; fill: #8b97b8; text-anchor: middle; }
+    .l { opacity: 0; animation: show .01s linear forwards; }
+    @keyframes show { to { opacity: 1; } }
+    .bar { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: fill 1.3s 3.6s ease-out forwards; }
+    @keyframes fill { to { transform: scaleX(1); } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .l { animation: none; opacity: 1; } .bar { animation: none; transform: none; } .cursor { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="998" height="436" rx="14" fill="#0a0e1f" stroke="url(#edge)" stroke-width="1.5"/>
+  <path d="M1 44V15a14 14 0 0 1 14-14h970a14 14 0 0 1 14 14v29z" fill="#141a33"/>
+  <circle cx="28" cy="22" r="6.5" fill="#ff5f7e"/><circle cx="50" cy="22" r="6.5" fill="#ffd166"/><circle cx="72" cy="22" r="6.5" fill="#00ff9d"/>
+  <text class="title" x="500" y="27">tomazzyy@cyberdeck: ~/perfil</text>
+
+  <text class="l" style="animation-delay:.3s" x="30" y="82"><tspan class="p">❯</tspan> ./iniciar_perfil.sh</text>
+  <text class="l" style="animation-delay:1s" x="30" y="116"><tspan class="ok">[✔]</tspan> Vinícius Tomaz detectado</text>
+  <text class="l" style="animation-delay:1.4s" x="30" y="144"><tspan class="ok">[✔]</tspan> Desenvolvedor de Sistemas</text>
+  <text class="l" style="animation-delay:1.8s" x="30" y="172"><tspan class="ok">[✔]</tspan> 10 meses de experiência prática</text>
+  <text class="l" style="animation-delay:2.2s" x="30" y="200"><tspan class="ok">[✔]</tspan> Explorando Front-end &amp; Back-end</text>
+  <text class="l" style="animation-delay:2.6s" x="30" y="228"><tspan class="ok">[✔]</tspan> Apaixonado por tecnologia</text>
+
+  <text class="l" style="animation-delay:3.2s" x="30" y="268"><tspan class="p">❯</tspan> carregando objetivos...</text>
+  <g class="l" style="animation-delay:3.5s">
+    <rect x="30" y="284" width="560" height="14" rx="3" fill="#1b2240"/>
+    <rect class="bar" x="30" y="284" width="560" height="14" rx="3" fill="url(#edge)"/>
+    <text x="604" y="297" class="dim">100%</text>
+  </g>
+
+  <text class="l" style="animation-delay:5s" x="30" y="332"><tspan class="v">[01]</tspan> Canadá</text>
+  <text class="l" style="animation-delay:5.3s" x="500" y="332"><tspan class="v">[02]</tspan> Empresa própria</text>
+  <text class="l" style="animation-delay:5.6s" x="30" y="360"><tspan class="v">[03]</tspan> Full Stack Developer</text>
+  <text class="l" style="animation-delay:5.9s" x="500" y="360"><tspan class="v">[04]</tspan> Evolução constante</text>
+
+  <g class="l" style="animation-delay:6.4s">
+    <text x="30" y="404"><tspan class="p">❯</tspan> pronto para criar o futuro</text>
+    <rect class="cursor" x="326" y="390" width="10" height="19" fill="#00f7ff"/>
+  </g>
+</svg>
