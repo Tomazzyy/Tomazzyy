@@ -29,7 +29,7 @@
 
 [✔] Vinícius Tomaz detectado
 [✔] Desenvolvedor de Sistemas
-[✔] 5 meses de experiência prática
+[✔] 10 meses de experiência prática
 [✔] Explorando Front-end & Back-end
 [✔] Apaixonado por tecnologia
 
